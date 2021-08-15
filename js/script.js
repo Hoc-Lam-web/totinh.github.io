@@ -33,8 +33,8 @@ function troll() {
     const y = document.getElementById("fbut3");
       x.style.display="none";
       y.style.display="block";
-      document.getElementById("alert").innerHTML = "Cậu đừng có dối lòng nữa 😙 Hãy nói thật đi";
-      document.getElementById("alert2").innerHTML = "Cậu mà thoát trang Web này hay Block tớ là cậu đồng ý nha 😛";
+      document.getElementById("alert").innerHTML = "Thôi em đừng có dối lòng nữa. Yêu anh thì bấm vào nút ở trên đi :))";
+      document.getElementById("alert2").innerHTML = "Dối lòng sẽ bị quạ bắt diều hâu tha 😛";
       document.getElementById("audio2").play();
       return false;
 }
